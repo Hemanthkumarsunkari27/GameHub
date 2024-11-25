@@ -1,0 +1,7 @@
+# List of required Python packages (if any)
+# e.g., requests==2.25.1
+
+To generate this file with packages used in your environment:
+pip freeze > requirements.txt
+This command will save all currently installed packages and their versions to requirements.txt.
+
